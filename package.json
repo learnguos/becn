@@ -1,0 +1,13 @@
+{
+  "name": "becn",
+  "version": "1.0.0",
+  "main": "becn.min.js",
+  "description": "基于 Fetch API 实现的网络请求库",
+  "keywords": ["fetch", "Fetch API", "Fetch", "Network request library", "Request library", "网络请求库", "网络请求"],
+  "license": "GNU",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/learnguos/becn"
+  },
+  "homepage": "becn.eu.org"
+}
